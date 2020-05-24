@@ -1,5 +1,5 @@
 ## Welcome to MelindaSewak's homepage!
-Bookmark this site to stay up-to-date with my project updates!
+Bookmark this site to follow my project updates!
 
 <!--
 ## Welcome to GitHub Pages
